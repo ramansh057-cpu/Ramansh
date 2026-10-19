@@ -1,0 +1,6 @@
+{
+  "name": "Official.Ramansh Indie | Play Free Web Games",
+  "description": "Official.Ramansh Indie — a hub for indie web games, demos, and updates. Play in-browser, track player views, and send feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ann-1",
+    "title": "Solaris: Orbit Defender v1.4.2 Major Performance Update",
+    "date": "October 16, 2026",
+    "category": "Update",
+    "summary": "Enhanced WebGL rendering pipeline, reduced load latency by 40%, and added ultrawide support for web players.",
+    "content": "We have deployed patch v1.4.2 across all live browser instances. This release optimizes the physics engine loop, resolving frame drops during intense multi-asteroid cascades. Browser players now experience seamless audio and instantaneous keyboard focus.",
+    "pinned": true,
+    "author": "Ramansh Studios Core Team"
+  },
+  {
+    "id": "ann-2",
+    "title": "Studio Milestone: 10,000 Browser Players Reached",
+    "date": "October 10, 2026",
+    "category": "Studio News",
+    "summary": "Ramansh Studios celebrates 10,000 cumulative web game launches across our live browser releases.",
+    "content": "Thank you to every player who has launched our games directly through the official studio portal. We are actively developing our next browser release with playable preview links arriving next month.",
+    "pinned": false,
+    "author": "Ramansh Studios"
+  },
+  {
+    "id": "ann-3",
+    "title": "Patch Notes: Chrono Shift Level Calibration",
+    "date": "September 28, 2026",
+    "category": "Patch Notes",
+    "summary": "Rebalanced time-warp puzzle difficulty curves in mid-tier chambers 14 through 20.",
+    "content": "Based on player completion telemetry, we adjusted the puzzle timing in mid-tier chambers and added subtle visual trail indicators for temporal echoes.",
+    "pinned": false,
+    "author": "Design & Gameplay Team"
+  }
+]

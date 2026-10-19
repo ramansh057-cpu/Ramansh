@@ -1,0 +1,40 @@
+[
+  {
+    "id": "game-solaris",
+    "title": "Solaris: Orbit Defender",
+    "description": "Defend planetary colonies against deep space gravitational anomalies. Maneuver through asteroid belts with orbital momentum physics, twin tactical lasers, and reactor management.",
+    "iframeUrl": "https://images.unsplash.com",
+    "thumbnailUrl": "/src/assets/images/professional_studio_workspace_1792341210954.jpg",
+    "genre": "Orbital Strategy",
+    "version": "v1.4.2",
+    "releaseDate": "October 2026",
+    "views": 1420,
+    "features": [
+      "Precision orbital momentum physics engine",
+      "Dynamic celestial gravitational wells",
+      "Browser optimized 60 FPS performance",
+      "Original synthesizer space soundtrack"
+    ],
+    "status": "Live",
+    "author": "Ramansh Studios"
+  },
+  {
+    "id": "game-aetheria",
+    "title": "Aetheria: Chrono Shift",
+    "description": "Tactical temporal grid puzzle. Manipulate past and future reality states to solve complex energy chambers, synchronize chronosphere matrices, and unlock ancient planetary gates.",
+    "iframeUrl": "https://images.unsplash.com",
+    "thumbnailUrl": "/src/assets/images/professional_studio_workspace_1792341210954.jpg",
+    "genre": "Chrono Puzzle",
+    "version": "v2.1.0",
+    "releaseDate": "September 2026",
+    "views": 2840,
+    "features": [
+      "Dual-timeline temporal state swapping",
+      "48 handcrafted labyrinth chambers",
+      "Ambient procedural audio soundscapes",
+      "Instant browser launch without downloads"
+    ],
+    "status": "Live",
+    "author": "Ramansh Studios"
+  }
+]

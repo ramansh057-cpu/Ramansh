@@ -1,0 +1,25 @@
+[
+  {
+    "id": "proj-financial-telemetry",
+    "title": "Executive Financial Metrics & Market Intelligence",
+    "description": "Real-time multi-currency foreign exchange rates, treasury yields, and global market indices tracking platform.",
+    "url": "https://images.unsplash.com",
+    "category": "Interactive Dashboard",
+    "aspectRatio": "desktop",
+    "thumbnailUrl": "/src/assets/images/professional_studio_workspace_1792341210954.jpg",
+    "views": 142,
+    "sessionsCount": 98,
+    "totalDwellTimeSeconds": 43200,
+    "rating": 4.9,
+    "ratingsCount": 22,
+    "createdAt": "2026-10-05T12:00:00Z",
+    "tags": [
+      "Finance",
+      "Analytics",
+      "Enterprise",
+      "Dashboard"
+    ],
+    "author": "Ramansh Studio",
+    "sandbox": "allow-scripts allow-same-origin allow-forms"
+  }
+]
